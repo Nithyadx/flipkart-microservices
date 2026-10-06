@@ -1,0 +1,6 @@
+payment/node_modules/
+user-management/venv/
+**/__pycache__/
+*.pyc
+target/
+.env
